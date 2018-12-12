@@ -6,8 +6,9 @@
 //  Copyright © 2018年 Parker. All rights reserved.
 //
 
-
+#import <CTMediator/CTMediator.h>
+#import <UIKit/UIKit.h>
 
 @interface CTMediator (A)
-
+- (UIViewController *)A_aViewController;
 @end
